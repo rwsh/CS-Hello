@@ -1,0 +1,14 @@
+C:\study\Hello\Hello\bin\Release\Hello.exe.config
+C:\study\Hello\Hello\bin\Release\Hello.exe
+C:\study\Hello\Hello\bin\Release\Hello.pdb
+C:\study\Hello\Hello\obj\Release\Hello.csprojAssemblyReference.cache
+C:\study\Hello\Hello\obj\Release\MainWindow.g.cs
+C:\study\Hello\Hello\obj\Release\App.g.cs
+C:\study\Hello\Hello\obj\Release\Hello_MarkupCompile.cache
+C:\study\Hello\Hello\obj\Release\Hello_MarkupCompile.lref
+C:\study\Hello\Hello\obj\Release\MainWindow.baml
+C:\study\Hello\Hello\obj\Release\Hello.g.resources
+C:\study\Hello\Hello\obj\Release\Hello.Properties.Resources.resources
+C:\study\Hello\Hello\obj\Release\Hello.csproj.GenerateResource.cache
+C:\study\Hello\Hello\obj\Release\Hello.exe
+C:\study\Hello\Hello\obj\Release\Hello.pdb

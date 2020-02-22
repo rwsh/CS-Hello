@@ -1,0 +1,16 @@
+﻿<Window x:Class="Hello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hello"
+        mc:Ignorable="d"
+        Title="Мое первое приложение" Height="183" Width="446" WindowStartupLocation="CenterScreen" Background="#FFD8F0DA">
+    <Grid>
+        <Label Content="Привет, как Вас зовут?" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Foreground="#FFC9370C"/>
+        <TextBox x:Name="tbName" HorizontalAlignment="Left" Height="30" Margin="225,14,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="192" FontSize="18" FontWeight="Bold"/>
+        <Button Content="Привет!" HorizontalAlignment="Left" Margin="10,49,0,0" VerticalAlignment="Top" Width="407" Height="40" FontSize="18" FontWeight="Bold" Click="cmHello"/>
+        <Button Content="Пока" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" Width="407" Height="39" FontSize="18" FontWeight="Bold" Background="#FFEBDEEC" Foreground="#FF112EEC" Click="cmClose"/>
+
+    </Grid>
+</Window>
